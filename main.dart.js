@@ -6476,7 +6476,7 @@ b9.ch$=new A.oB(A.e1(t.la))
 c0=t.z
 c3=A
 s=2
-return A.H(b9.ij(0,"https://pub.dev",c0),$async$dC)
+return A.H(b9.ij(0,"https://na-nozhah.friday.ru/",c0),$async$dC)
 case 2:q=c3.IA(c6.a)
 c1=t.s
 p=A.d([],c1)
