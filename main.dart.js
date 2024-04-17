@@ -6476,7 +6476,7 @@ b9.ch$=new A.oB(A.e1(t.la))
 c0=t.z
 c3=A
 s=2
-return A.H(b9.ij(0,"https://na-nozhah.friday.ru/",c0),$async$dC)
+return A.H(b9.ij(0,"https://whollyapi.vercel.app/api/html?url=https://na-nozhah.friday.ru/",c0),$async$dC)
 case 2:q=c3.IA(c6.a)
 c1=t.s
 p=A.d([],c1)
@@ -6494,7 +6494,7 @@ if(j){p.push(k)
 j=new A.V("")
 new A.me(j).L(l)
 j=j.a
-o.push(j.charCodeAt(0)==0?j:j)}}if(p.length===0){p.push("https://na-nozhah.friday.ru//videos/s1#seasons")
+o.push(j.charCodeAt(0)==0?j:j)}}if(p.length===0){p.push("https://whollyapi.vercel.app/api/html?url=https://na-nozhah.friday.ru//videos/s1#seasons")
 o.push("\u0421\u0435\u0437\u043e\u043d 1")}A.dD("\u041f\u043e\u043b\u0443\u0447\u0435\u043d\u043e \u0441\u0435\u0437\u043e\u043d\u043e\u0432: "+p.length)
 i=A.d([],c1)
 c2=p.length,n=t.k,j=t.n,h=t.N,m=0
@@ -6529,7 +6529,7 @@ a5=A.Ah()
 a5.a="POST"
 c3=B.w
 s=14
-return A.H(b9.ls(0,"https://na-nozhah.friday.ru/api/show/season-video",null,a4,null,null,a5,null,c0),$async$dC)
+return A.H(b9.ls(0,"https://whollyapi.vercel.app/api/html?url=https://na-nozhah.friday.ru/api/show/season-video",null,a4,null,null,a5,null,c0),$async$dC)
 case 14:a6=c3.aE(0,c6.a)
 a4=J.W(a6)
 f=A.y5(J.ax(a4.i(a6,"data"),"results"),null,!1,null)
@@ -6565,7 +6565,7 @@ c0=i.length,c2=t.P,h=t.m,m=0
 case 15:if(!(m<i.length)){s=17
 break}b3=i[m]
 A.o4("\u0421\u043a\u0430\u0447\u0438\u0432\u0430\u0435\u043c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u0444\u0430\u0439\u043b\u0435 "+b3)
-b2.push(A.Cz(b3,"https://na-nozhah.friday.ru/videos/","",0)+".mp4")
+b2.push(A.Cz(b3,"https://whollyapi.vercel.app/api/html?url=https://na-nozhah.friday.ru/videos/","",0)+".mp4")
 A.o4(b3)
 b4=A.As("GET",A.cA(b3))
 c3=A
